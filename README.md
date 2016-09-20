@@ -18,12 +18,13 @@ And click on submit button will return the sorted string by length in the result
 RssFeed
 
 Libraries Used :-
-  1. jQuery 
-  2. Bootstrap CSS
-  3. Bootstrap JS
-  3. Font Awesome Icons
-  4. imagesloaded.pkgd JS
-  5. Moment JS
+    
+    1. jQuery
+    2. Bootstrap CSS
+    3. Bootstrap JS
+    3. Font Awesome Icons
+    4. imagesloaded.pkgd JS
+    5. Moment JS
 
 Rss Feed reader of redit 
 Link : https://www.reddit.com/.rss
